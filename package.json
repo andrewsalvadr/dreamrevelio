@@ -1,0 +1,28 @@
+{
+  "name": "dreamtool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.14",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
+    "next": "13.2.4",
+    "openai": "^3.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.0"
+  }
+}
